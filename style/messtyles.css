@@ -1,0 +1,37 @@
+#info { border: 10px black;
+    margin :50px;
+    padding:30px;
+    background-color:lightskyblue;}
+    #insc { border: 10px black;
+    margin: 50px;
+    padding:30px;
+    background-color:lightcyan;}
+    #prets { border: 10px black;
+        margin: 50px;
+        padding:30px;
+    background-color:lightgoldenrodyellow;}
+    section{
+        font-family:Arial;
+        background-color:lightgoldenrodyellow;}
+    #formulaire{
+        position: relative;
+        margin:auto;
+        width: 300px;
+    }
+    #lbSaisie{
+        display: inline-block;
+        width: 140px;
+        line-height: 30px;
+    }
+    bouton{
+        width: 360px;
+    }
+#fondPestin{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Biblioth%C3%A8que_nationale_de_Tunisie_%2819-09-2008%29.jpg/420px-Biblioth%C3%A8que_nationale_de_Tunisie_%2819-09-2008%29.jpg);
+   color: black;
+   font-size: 22px;
+    font-style:oblique;
+    text-align:left;
+    font-weight:bold;
+    
+}
